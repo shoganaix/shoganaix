@@ -28,9 +28,7 @@ Here are some ideas to get you started:
 
 ---
 
-  <div align=”center”>
-<h1 align="center">Material Bread</h1>
-  </div>
+<h1 align="center">GameProgramming</h1>
   <div><p align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
