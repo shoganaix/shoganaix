@@ -1,4 +1,4 @@
-<div id="header" align="center">
+ <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> <Gif>
   <div id="badges">
       <a href="https://es.linkedin.com/in/maria-soriano-palacios">
@@ -13,7 +13,7 @@
 ---
 <div id="h2" align="center">
   <a href="tobedefined">
-        <img src="https://img.shields.io/badge/Webpage-green?style=for-the-badge height=5000" alt="Webpage Badge"/>
+        <img src="https://img.shields.io/badge/Webpage-green?style=for-the-badge" alt="Webpage Badge"/>
 </div>
 
     
