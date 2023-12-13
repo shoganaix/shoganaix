@@ -16,7 +16,7 @@
 </div>
 
 <h1 align="center">About Me</h1>
-<h3><img src="https://giphy.com/stickers/smile-emoji-plants-bZW3AAESS9HPMNeBI1" width="30"> 
+<h3><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNlODl5b3B1Z3kzNW44azhsdDZ3YXo5ZzByZjgxbXJteXpkMnR0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bZW3AAESS9HPMNeBI1/giphy.gif" width="30"> 
 
 Here are some ideas to get you started:
 
