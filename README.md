@@ -9,7 +9,7 @@
       </a>
   </div>
   <a href="tobedefined">
-        <img src="https://img.shields.io/badge/Webpage-green height="5000" ?style=for-the-badge&logo=linkedin&logoColor=white alt="Webpage Badge"/>
+        <img src="https://img.shields.io/badge/Webpage-green height="5000" alt="Webpage Badge"/>
 </div>
     
 ---
