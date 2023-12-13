@@ -15,8 +15,8 @@
         <img src="https://img.shields.io/badge/Webpage-green?style=for-the-badge" alt="Webpage Badge"/>
 </div>
 
-<h1 align="center"><img src="https://media.giphy.com/media/L0YzHWMjfqP7OeObLl/giphy.gif" width="50">About Me 
- <img src="" width="50"> </h1>
+<h1 align="center"><img src="https://media.giphy.com/media/vilrxqdiL82Qyxyh3f/giphy.gif" width="50">About Me 
+ <img src="https://media.giphy.com/media/vilrxqdiL82Qyxyh3f/giphy.gif" width="50"> </h1>
 
 Here are some ideas to get you started:
 
