@@ -1,9 +1,7 @@
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/xT8qBnuixKYubm3wS4/giphy.gif" width="100"/> <Gif>
- </div>
-   
- <div id="hea" align="center">
    <div id="badges">
+        <br />
        <a href="https://es.linkedin.com/in/maria-soriano-palacios">
        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
        </a>
@@ -12,11 +10,11 @@
        </a>
    </div>
 </div>
+    <br />
+    <br />
+    <br />
+   <h1 align="center"> <img src="https://media.giphy.com/media/kUNsRsa2wvxK3eAL3R/giphy.gif" width="30"> About Me <img src="https://media.giphy.com/media/kUNsRsa2wvxK3eAL3R/giphy.gif" width="30"> </h1>
 
-   <h1 align="center"> <img src="https://media.giphy.com/media/kUNsRsa2wvxK3eAL3R/giphy.gif" width="50"> ABOUT ME <img src="https://media.giphy.com/media/kUNsRsa2wvxK3eAL3R/giphy.gif" width="50"> </h1>
-<!---
-<h1 align="center"><img src="https://media.giphy.com/media/LOactPJKWtNLyErSCr/giphy.gif" width="50">About Me <img src="https://media.giphy.com/media/LOactPJKWtNLyErSCr/giphy.gif" width="50"></h1>
---->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
