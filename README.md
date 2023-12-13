@@ -26,9 +26,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### Languages
   <div align=”center”>
-    <p align="center">Game Programming</p>
+    <p align="center">##Game Programming</p>
   </div>
   <div><p align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
