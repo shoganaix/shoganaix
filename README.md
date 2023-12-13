@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   
 ---
-<h2 align="center"><img src="https://media.giphy.com/media/L0YzHWMjfqP7OeObLl/giphy.gif" width="50"> Game Programming</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/YMp0E5i0KBsLCkCy1Q/giphy.gif" width="50"> Game Programming</h2>
   <div><p align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
