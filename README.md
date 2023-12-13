@@ -9,7 +9,7 @@
       </a>
   </div>
   <a href="tobedefined">
-        <img src="https://img.shields.io/badge/Webpage-green?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Webpage Badge"/>
+        <img src="https://img.shields.io/badge/Webpage-green?style=for-the-badge&logo" alt="Webpage Badge"/>
 </div>
     
 ---
