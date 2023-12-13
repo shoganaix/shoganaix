@@ -17,10 +17,9 @@
 <br />
    <h1 align="center"> <img src="https://media.giphy.com/media/kUNsRsa2wvxK3eAL3R/giphy.gif" width="30"> About Me <img src="https://media.giphy.com/media/kUNsRsa2wvxK3eAL3R/giphy.gif" width="30"> </h1>
 
-<h4>🌿 Hey  there!</h4>     
+<h4>🌿 Welcome to my profile!</h4>
 
 My name is Maria and I'm a Videogame Developer from Spain 🇪🇦
-<br />
 - 🕹️ I’m currently studying programming.
 - 🎨 I am also an artist, I draw, sculpt animate, etc.
 - 🔭 I really enjoy video games, but I am also passionate about science and technology. I would like to someday pursue a career in astronomy (yes, I'm reaching for the stars, quite literally!🪐✨)
