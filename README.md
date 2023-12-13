@@ -19,12 +19,12 @@
 
 <h4>🌿 Welcome to my profile!</h4>
 
-My name is Maria and I'm a Videogame Developer from Spain 🇪🇦
+My name is Maria and I'm a recently graduated *Videogame Developer* from Spain 🇪🇦
 - 🕹️ I’m currently studying programming.
-- 🎨 I am also an artist, I draw, sculpt animate, etc.
-- 🔭 I really enjoy video games, but I am also passionate about science and technology. I would like to someday pursue a career in astronomy (yes, I'm reaching for the stars, quite literally!🪐✨)
+- 🎨 I am also an artist, I draw, sculpt animate, and a long etc.
+- 🔭 I really enjoy video games, but I am also passionate about science and technology. I would like to someday pursue a career in astronomy (yes, I'm reaching for the stars!🪐✨)
 - 🌈 My pronouns are she/her
-- 🧊 A **fun fact** about me is that my go-to comfort food is ice! Yep, you read that right
+- 🧊 A **fun fact** about me is that my go-to comfort food is... ice!
  
 ---
 <h2 align="center"> Game Programming</h2>
