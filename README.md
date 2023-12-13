@@ -1,21 +1,19 @@
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/xT8qBnuixKYubm3wS4/giphy.gif" width="100"/> <Gif>
-  <div id="badges">
-      <a href="https://es.linkedin.com/in/maria-soriano-palacios">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a>
-        <a href="https://xshoganai.itch.io/">
-        <img src="https://img.shields.io/badge/Itch.io-red?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io Badge"/>
-      </a>
-  </div>
-</div>
-    
-<div id="h2" align="center">
-  <a href="tobedefined">
-        <img src="https://img.shields.io/badge/Webpage-green?style=for-the-badge" alt="Webpage Badge"/>
+ </div>
+   
+ <div id="hea" align="center">
+   <div id="badges">
+       <a href="https://es.linkedin.com/in/maria-soriano-palacios">
+       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+       </a>
+         <a href="https://xshoganai.itch.io/">
+         <img src="https://img.shields.io/badge/Itch.io-red?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io Badge"/>
+       </a>
+   </div>
 </div>
 
-   <h1 align="center"> <img src="https://media.giphy.com/media/kUNsRsa2wvxK3eAL3R/giphy.gif" width="50"> About Me <img src="https://media.giphy.com/media/kUNsRsa2wvxK3eAL3R/giphy.gif" width="50"> </h1>
+   <h1 align="center"> <img src="https://media.giphy.com/media/kUNsRsa2wvxK3eAL3R/giphy.gif" width="50"> ABOUT ME <img src="https://media.giphy.com/media/kUNsRsa2wvxK3eAL3R/giphy.gif" width="50"> </h1>
 <!---
 <h1 align="center"><img src="https://media.giphy.com/media/LOactPJKWtNLyErSCr/giphy.gif" width="50">About Me <img src="https://media.giphy.com/media/LOactPJKWtNLyErSCr/giphy.gif" width="50"></h1>
 --->
