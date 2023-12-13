@@ -15,8 +15,10 @@
         <img src="https://img.shields.io/badge/Webpage-green?style=for-the-badge" alt="Webpage Badge"/>
 </div>
 
+ <h1 align="center">About Me<img src="https://media.giphy.com/media/9F2ExfXlv4UYb0w0zw/giphy.gif"width="50"></h1>
+<!---
 <h1 align="center"><img src="https://media.giphy.com/media/LOactPJKWtNLyErSCr/giphy.gif" width="50">About Me <img src="https://media.giphy.com/media/LOactPJKWtNLyErSCr/giphy.gif" width="50"></h1>
-
+--->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -27,7 +29,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: ...
-  
+ 
 ---
 <h2 align="center"> Game Programming</h2>
   <div><p align="center">
