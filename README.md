@@ -15,7 +15,8 @@
         <img src="https://img.shields.io/badge/Webpage-green?style=for-the-badge" alt="Webpage Badge"/>
 </div>
 
-<h1 align="center">About Me</h1> https://giphy.com/stickers/smile-emoji-plants-bZW3AAESS9HPMNeBI1
+<h1 align="center">About Me</h1>
+<h3><img src="https://giphy.com/stickers/smile-emoji-plants-bZW3AAESS9HPMNeBI1" width="30"> 
 
 Here are some ideas to get you started:
 
