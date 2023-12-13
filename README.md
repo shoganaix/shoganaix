@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ---
-<h1 align="center"><img src="https://media.giphy.com/media/S4GPpTuQtWIEN8SbpZ/giphy.gif" width="50">Languages
-<img src="https://media.giphy.com/media/S4GPpTuQtWIEN8SbpZ/giphy.gif" width="50"> </h1>
+<h1 align="center"><img src="https://media.giphy.com/media/S4GPpTuQtWIEN8SbpZ/giphy.gif" width="30">Languages
+<img src="https://media.giphy.com/media/S4GPpTuQtWIEN8SbpZ/giphy.gif" width="30"> </h1>
 
 <h2 align="center">Game Programming</h2>
   <div><p align="center">
