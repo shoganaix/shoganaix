@@ -15,9 +15,7 @@
         <img src="https://img.shields.io/badge/Webpage-green?style=for-the-badge" alt="Webpage Badge"/>
 </div>
 
-    
----
-### About me
+<h1 align="center">About Me</h1>
 
 Here are some ideas to get you started:
 
