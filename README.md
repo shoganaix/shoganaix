@@ -13,7 +13,7 @@
 </div>
 
 ---
-### About me:
+### About me
 
 Here are some ideas to get you started:
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### Languages:
+### Languages
   <div align=”center”>
 Game Programming
   </div>
