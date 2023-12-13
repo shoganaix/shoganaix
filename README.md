@@ -15,7 +15,7 @@
         <img src="https://img.shields.io/badge/Webpage-green?style=for-the-badge" alt="Webpage Badge"/>
 </div>
 
- <h1 align="center">About Me<img src="https://media.giphy.com/media/9F2ExfXlv4UYb0w0zw/giphy.gif"width="50"></h1>
+ <h1 align="center">About Me</h1>
 <!---
 <h1 align="center"><img src="https://media.giphy.com/media/LOactPJKWtNLyErSCr/giphy.gif" width="50">About Me <img src="https://media.giphy.com/media/LOactPJKWtNLyErSCr/giphy.gif" width="50"></h1>
 --->
