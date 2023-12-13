@@ -13,9 +13,7 @@
 </div>
 
 ---
-
-
-**shoganaix/shoganaix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :hammer_and_wrench: About me:
 
 Here are some ideas to get you started:
 
