@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/xT8qBnuixKYubm3wS4/giphy.gif" width="100"/> <Gif>
    <div id="badges">
         <br />
-       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
          <a href="https://xshoganai.itch.io/">
          <img src="https://img.shields.io/badge/Itch.io-red?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io Badge"/>
     <br />
@@ -17,16 +17,13 @@
 <br />
    <h1 align="center"> <img src="https://media.giphy.com/media/kUNsRsa2wvxK3eAL3R/giphy.gif" width="30"> About Me <img src="https://media.giphy.com/media/kUNsRsa2wvxK3eAL3R/giphy.gif" width="30"> </h1>
 
-Here are some ideas to get you started:
+🌿 Hey! My name is Maria and I'm a Videogame Developer from Spain 🇪🇦
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: ...
+- 🕹️ I’m currently studying programming.
+- 🎨 I am also an artist, I draw, sculpt animate, etc.
+- 🔭 I really enjoy video games, but I am also passionate about science and technology. I would like to someday pursue a career in astronomy (yes, I'm reaching for the stars, quite literally!🪐✨)
+- 🌈 My pronouns are she/her
+- 🧊 A fun fact about me is that my go-to comfort food is ice! Yep, you read that right
  
 ---
 <h2 align="center"> Game Programming</h2>
