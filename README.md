@@ -44,8 +44,6 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   </p></div>
   
-  ---
-
 <!--
 ## Stats
 
