@@ -1,9 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> <Gif>
   <div id="badges">
+        <a href="https://es.linkedin.com/in/maria-soriano-palacios/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
-          <a href="https://xshoganai.itch.io/">
+        <a href="https://xshoganai.itch.io/">
         <img src="https://img.shields.io/badge/Itch.io-red?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io Badge"/>
       </a>
   </div>
