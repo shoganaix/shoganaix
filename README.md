@@ -16,7 +16,7 @@
 </div>
 
 <h1 align="center"><img src="https://media.giphy.com/media/LOactPJKWtNLyErSCr/giphy.gif" width="50">About Me 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNlODl5b3B1Z3kzNW44azhsdDZ3YXo5ZzByZjgxbXJteXpkMnR0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bZW3AAESS9HPMNeBI1/giphy.gif" width="50"> </h1>
+<img src="https://media.giphy.com/media/LOactPJKWtNLyErSCr/giphy.gif" width="50"> </h1>
 
 Here are some ideas to get you started:
 
