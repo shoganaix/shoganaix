@@ -11,7 +11,7 @@
     </div>
        </a>
        <a href="tobedefined/">
-         <img src="https://img.shields.io/badge/Webpage-green?style=for-the-badge&logo" alt="Itch.io Badge"/>
+         <img src="https://img.shields.io/badge/Webpage-green?style=for-the-badge&logo" alt="Web Badge" width="200"/>
        </a>
 </div>
 <br />
