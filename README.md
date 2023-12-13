@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ### Languages
   <div align=”center”>
-    <p>Game Programming</p>
+    <p align="center">Game Programming</p>
   </div>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal" **alt="Unreal" width="40" height="40"/>
   </div>
   <div align=”center”>
-    <p>Web Programming</p>
+    <p align="center">Web Programming</p>
   </div>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
