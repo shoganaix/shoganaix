@@ -1,3 +1,4 @@
+ <img src="https://media.giphy.com/media/YVZwykiQY71YEM9T3Q/giphy.gif"
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/YVZwykiQY71YEM9T3Q/giphy.gif" width="100"/> <Gif>
   <div id="badges">
