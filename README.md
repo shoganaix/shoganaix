@@ -28,11 +28,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: ...
-
-
-<h1 align="center"><img src="https://media.giphy.com/media/S4GPpTuQtWIEN8SbpZ/giphy.gif" width="30">Languages
-<img src="https://media.giphy.com/media/S4GPpTuQtWIEN8SbpZ/giphy.gif" width="30"> </h1>
-
+  
+---
 <h2 align="center">Game Programming</h2>
   <div><p align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
