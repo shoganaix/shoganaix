@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: ...
 
----
+
 <h1 align="center"><img src="https://media.giphy.com/media/S4GPpTuQtWIEN8SbpZ/giphy.gif" width="30">Languages
 <img src="https://media.giphy.com/media/S4GPpTuQtWIEN8SbpZ/giphy.gif" width="30"> </h1>
 
