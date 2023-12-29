@@ -5,6 +5,7 @@
          <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
          <a href="https://xshoganai.itch.io/">
          <img src="https://img.shields.io/badge/Itch.io-red?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io Badge"/>
+          <a href="https://www.linkedin.com/in/maria-soriano-palacios/">
          </a>
         <br />
         <br />
@@ -12,6 +13,7 @@
     </div>
        <a href="tobedefined/">
          <img src="https://img.shields.io/badge/Webpage-green?style=for-the-badge&logo" alt="Web Badge" width="200"/>
+        <a href="https://www.linkedin.com/in/maria-soriano-palacios/">
        </a>
  </div>
    <!---
