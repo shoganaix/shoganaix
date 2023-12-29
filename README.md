@@ -11,9 +11,8 @@
         <br />
         <br />
     </div>
-       <a href="tobedefined/">
+       <a href="Portfolio/">
          <img src="https://img.shields.io/badge/Webpage-green?style=for-the-badge&logo" alt="Web Badge" width="200"/>
-          <a href="https://www.linkedin.com/in/maria-soriano-palacios/">
        </a>
  </div>
    <!---
