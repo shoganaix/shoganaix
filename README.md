@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/xT8qBnuixKYubm3wS4/giphy.gif" width="100"/> <Gif>
    <div id="badges">
         <br />
+         <a href="https://www.linkedin.com/in/maria-soriano-palacios/">
          <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
          <a href="https://xshoganai.itch.io/">
-         <a href="https://www.linkedin.com/in/maria-soriano-palacios/">
          <img src="https://img.shields.io/badge/Itch.io-red?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io Badge"/>
          </a>
         <br />
