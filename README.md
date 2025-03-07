@@ -7,9 +7,6 @@
          <a href="https://xshoganai.itch.io/">
          <img src="https://img.shields.io/badge/Itch.io-red?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io Badge"/>
          </a>
-        <br />
-        <br />
-        <br />
     </div>
        <a href="https://github.com/shoganaix/Portfolio">
          <img src="https://img.shields.io/badge/Webpage-green?style=for-the-badge&logo" alt="Web Badge" width="200"/>
