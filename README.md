@@ -4,6 +4,7 @@
         <br />
           <!---<a href="https://www.linkedin.com/in/maria-soriano-palacios/"> --->
          <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    
          <a href="https://xshoganai.itch.io/">
          <img src="https://img.shields.io/badge/Itch.io-red?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io Badge"/>
          </a>
@@ -26,7 +27,7 @@
 
 <h4>🌿 Welcome to my profile!</h4>
 
-My name is Maria and I'm a recently graduated **__Videogame Developer__** from Spain 🇪🇦
+My name is Maria and I'm a recently graduated **__Videogame Developer__** from Spain
 - 🕹️ I’m currently immersed in the fascinating world of **coding**.
 - 🎨 I am also an **artist**, I draw, sculpt, animate, and a whole lot more.
 - 🔭 I really enjoy video games, but I am also passionate about **science** and technology. I would like to someday pursue a career in astronomy (yes, I'm reaching for the stars!🪐✨)
