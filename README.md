@@ -23,18 +23,18 @@
 
 <h4>🌿 Welcome to my profile!</h4>
 
-My name is Maria and I'm a recently graduated **__Videogame Developer__** from Spain
-- 🕹️ I’m currently immersed in the fascinating world of **coding**.
-- 🎨 I am also an **artist**, I draw, sculpt, animate, and a whole lot more.
-- 🔭 I really enjoy video games, but I am also passionate about **science** and technology. I would like to someday pursue a career in astronomy (yes, I'm reaching for the stars!🪐✨)
+Hi! I'm Maria — **__Game developer__** graduate, **__Programming__** graduate, and **__Electronics & Engineering__** student from Spain 🚀
+- 🤖 I built **robots** for fun!
+- 🕹 I really enjoy **video games**, in fact I built a career out of it
+- 🎨 I am also an **artist**: I draw, sculpt, animate, and a whole lot more.
+- 🔭 I am also passionate about **science** and I would like to someday pursue a career in astronomy (yes, I'm reaching for the stars!🪐✨)
 - 🌈 My pronouns are **she/her**
-- 🧊 A **fun fact** about me is that my go-to comfort food is... ice!
  
 ---
 <h2 align="center"> Game Programming</h2>
   <div><p align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+    <img src="https://devicon-website.vercel.app/api/c/original.svg" title="C#" alt="C" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="40" 
   height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity"  alt="Unity" width="40" height="40"/>&nbsp;
