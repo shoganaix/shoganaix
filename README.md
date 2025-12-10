@@ -29,8 +29,13 @@ Hi! I'm Maria — **__Game developer__** graduate, **__Programming__** graduate,
 - 🎨 I am also an **artist**: I draw, sculpt, animate, and a whole lot more.
 - 🔭 I am also passionate about **science** and I would like to someday pursue a career in astronomy (yes, I'm reaching for the stars!🪐✨)
 - 🌈 My pronouns are **she/her**
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=shoganaix&theme=onedark)](https://github.com/username/github-profile-trophy)
+
+<!-- Stats -->
+ <p align="center">
+   <a href="https://github.com/shoganaix"> 
+     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=shoganaix&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
+   </a>  
+ </p>
 
 ---
 <h2 align="center"> Game Programming</h2>
@@ -50,10 +55,15 @@ Hi! I'm Maria — **__Game developer__** graduate, **__Programming__** graduate,
   </p></div>
   
   ---
+
+
 <!---
 ## Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ <!-- Activity Graph
+<p align="center">
+  <a href="https://github.com/shoganaix">
+    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=shoganaix&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
+  </a> 
+</p>
 
 --->
