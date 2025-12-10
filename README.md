@@ -30,11 +30,7 @@ Hi! I'm Maria — **__Game developer__** graduate, **__Programming__** graduate,
 - 🔭 I am also passionate about **science** and I would like to someday pursue a career in astronomy (yes, I'm reaching for the stars!🪐✨)
 - 🌈 My pronouns are **she/her**
   
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shoganaix&theme=onedark" />
-  </a>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=shoganaix&theme=onedark)](https://github.com/username/github-profile-trophy)
 
 ---
 <h2 align="center"> Game Programming</h2>
