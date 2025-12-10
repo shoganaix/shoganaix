@@ -29,7 +29,13 @@ Hi! I'm Maria — **__Game developer__** graduate, **__Programming__** graduate,
 - 🎨 I am also an **artist**: I draw, sculpt, animate, and a whole lot more.
 - 🔭 I am also passionate about **science** and I would like to someday pursue a career in astronomy (yes, I'm reaching for the stars!🪐✨)
 - 🌈 My pronouns are **she/her**
- 
+  
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shoganaix&theme=onedark" />
+  </a>
+</p>
+
 ---
 <h2 align="center"> Game Programming</h2>
   <div><p align="center">
