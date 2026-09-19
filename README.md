@@ -18,18 +18,28 @@
             <img src="https://raw.githubusercontent.com/gist/UddeshJain/90646446c86e45c494d6e69bfc3005f1/raw/b15bee8a8b85f8740795b92c1878ab8ed9ec2204/About%20Me.gif" width="200"/> <Gif2></div>
      --->
       <br />
-   <h1 align="center"> <img src="https://media.giphy.com/media/kUNsRsa2wvxK3eAL3R/giphy.gif" width="30"> About Me <img src="https://media.giphy.com/media/kUNsRsa2wvxK3eAL3R/giphy.gif" width="30"> </h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/kUNsRsa2wvxK3eAL3R/giphy.gif" width="30">
+  About Me
+  <img src="https://media.giphy.com/media/kUNsRsa2wvxK3eAL3R/giphy.gif" width="30">
+</h1>
 
+<p align="center">
+  <strong><em>Software Developer | C/C++ · Python · Systems · Automation</em></strong>
+</p>
 
 <h4>🌿 Welcome to my profile!</h4>
 
-Hi! I'm Maria — **__Game developer__** graduate, **__Programming__** graduate, and **__Electronics & Engineering__** student from Spain 🚀
-- 🤖 I built **robots** for fun!
-- 🕹 I really enjoy **video games**, in fact I built a career out of it
-- 🎨 I am also an **artist**: I draw, sculpt, animate, and a whole lot more.
-- 🔭 I am also passionate about **science** and I would like to someday pursue a career in astronomy (yes, I'm reaching for the stars!🪐✨)
-- 🌈 My pronouns are **she/her**
+Hi! I'm Maria — **Game & Software Developer** and **Electronics & Engineering student** from Spain 🚀
 
+Currently focused on **systems programming, automation, embedded systems, and hardware-software integration**.
+
+- 🤖 I build **robots** for fun!
+- 🕹 I really enjoy **video games** — in fact, I built a career around them.
+- 🎨 I am also an **artist**: I draw, sculpt, animate, and a whole lot more.
+- 🔭 I am passionate about **science** and would love to pursue a career connected to astronomy someday — yes, I'm reaching for the stars! 🪐✨
+- 🌈 My pronouns are **she/her**
+  
 <!-- Stats -->
  <p align="center">
    <a href="https://github.com/shoganaix"> 
